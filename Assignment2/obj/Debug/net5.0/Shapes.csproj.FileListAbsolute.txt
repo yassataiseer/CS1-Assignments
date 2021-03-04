@@ -1,0 +1,14 @@
+/Users/yassa/Projects/cs1/Assignment2/bin/Debug/net5.0/Shapes.deps.json
+/Users/yassa/Projects/cs1/Assignment2/bin/Debug/net5.0/Shapes.runtimeconfig.json
+/Users/yassa/Projects/cs1/Assignment2/bin/Debug/net5.0/Shapes.runtimeconfig.dev.json
+/Users/yassa/Projects/cs1/Assignment2/bin/Debug/net5.0/Shapes.dll
+/Users/yassa/Projects/cs1/Assignment2/bin/Debug/net5.0/ref/Shapes.dll
+/Users/yassa/Projects/cs1/Assignment2/bin/Debug/net5.0/Shapes.pdb
+/Users/yassa/Projects/cs1/Assignment2/obj/Debug/net5.0/Shapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yassa/Projects/cs1/Assignment2/obj/Debug/net5.0/Shapes.AssemblyInfoInputs.cache
+/Users/yassa/Projects/cs1/Assignment2/obj/Debug/net5.0/Shapes.AssemblyInfo.cs
+/Users/yassa/Projects/cs1/Assignment2/obj/Debug/net5.0/Shapes.csproj.CoreCompileInputs.cache
+/Users/yassa/Projects/cs1/Assignment2/obj/Debug/net5.0/Shapes.dll
+/Users/yassa/Projects/cs1/Assignment2/obj/Debug/net5.0/ref/Shapes.dll
+/Users/yassa/Projects/cs1/Assignment2/obj/Debug/net5.0/Shapes.pdb
+/Users/yassa/Projects/cs1/Assignment2/obj/Debug/net5.0/Shapes.genruntimeconfig.cache

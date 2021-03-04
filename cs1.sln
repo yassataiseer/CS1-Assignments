@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2pt4", "Assignmen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2pt5", "Assignment2pt5\Assignment2pt5.csproj", "{59C00419-89F5-459F-87B6-0CA79B5DE56F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forloop", "forloop\forloop.csproj", "{32045BFE-278B-42EF-B384-7CCE5FE64D54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomGenerator", "RandomGenerator\RandomGenerator.csproj", "{EB8E3131-027B-47DF-970F-4631BE491205}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{59C00419-89F5-459F-87B6-0CA79B5DE56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59C00419-89F5-459F-87B6-0CA79B5DE56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59C00419-89F5-459F-87B6-0CA79B5DE56F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32045BFE-278B-42EF-B384-7CCE5FE64D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32045BFE-278B-42EF-B384-7CCE5FE64D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32045BFE-278B-42EF-B384-7CCE5FE64D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32045BFE-278B-42EF-B384-7CCE5FE64D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB8E3131-027B-47DF-970F-4631BE491205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8E3131-027B-47DF-970F-4631BE491205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8E3131-027B-47DF-970F-4631BE491205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8E3131-027B-47DF-970F-4631BE491205}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

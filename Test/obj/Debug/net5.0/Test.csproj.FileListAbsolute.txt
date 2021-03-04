@@ -1,0 +1,15 @@
+/Users/yassa/Projects/cs1/Test/bin/Debug/net5.0/Test.deps.json
+/Users/yassa/Projects/cs1/Test/bin/Debug/net5.0/Test.runtimeconfig.json
+/Users/yassa/Projects/cs1/Test/bin/Debug/net5.0/Test.runtimeconfig.dev.json
+/Users/yassa/Projects/cs1/Test/bin/Debug/net5.0/Test.dll
+/Users/yassa/Projects/cs1/Test/bin/Debug/net5.0/ref/Test.dll
+/Users/yassa/Projects/cs1/Test/bin/Debug/net5.0/Test.pdb
+/Users/yassa/Projects/cs1/Test/obj/Debug/net5.0/Test.csprojAssemblyReference.cache
+/Users/yassa/Projects/cs1/Test/obj/Debug/net5.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yassa/Projects/cs1/Test/obj/Debug/net5.0/Test.AssemblyInfoInputs.cache
+/Users/yassa/Projects/cs1/Test/obj/Debug/net5.0/Test.AssemblyInfo.cs
+/Users/yassa/Projects/cs1/Test/obj/Debug/net5.0/Test.csproj.CoreCompileInputs.cache
+/Users/yassa/Projects/cs1/Test/obj/Debug/net5.0/Test.dll
+/Users/yassa/Projects/cs1/Test/obj/Debug/net5.0/ref/Test.dll
+/Users/yassa/Projects/cs1/Test/obj/Debug/net5.0/Test.pdb
+/Users/yassa/Projects/cs1/Test/obj/Debug/net5.0/Test.genruntimeconfig.cache

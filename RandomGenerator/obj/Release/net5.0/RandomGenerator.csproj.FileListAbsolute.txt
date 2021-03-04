@@ -1,0 +1,14 @@
+/Users/yassa/Projects/cs1/RandomGenerator/bin/Release/net5.0/RandomGenerator.deps.json
+/Users/yassa/Projects/cs1/RandomGenerator/bin/Release/net5.0/RandomGenerator.runtimeconfig.json
+/Users/yassa/Projects/cs1/RandomGenerator/bin/Release/net5.0/RandomGenerator.runtimeconfig.dev.json
+/Users/yassa/Projects/cs1/RandomGenerator/bin/Release/net5.0/RandomGenerator.dll
+/Users/yassa/Projects/cs1/RandomGenerator/bin/Release/net5.0/ref/RandomGenerator.dll
+/Users/yassa/Projects/cs1/RandomGenerator/bin/Release/net5.0/RandomGenerator.pdb
+/Users/yassa/Projects/cs1/RandomGenerator/obj/Release/net5.0/RandomGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yassa/Projects/cs1/RandomGenerator/obj/Release/net5.0/RandomGenerator.AssemblyInfoInputs.cache
+/Users/yassa/Projects/cs1/RandomGenerator/obj/Release/net5.0/RandomGenerator.AssemblyInfo.cs
+/Users/yassa/Projects/cs1/RandomGenerator/obj/Release/net5.0/RandomGenerator.csproj.CoreCompileInputs.cache
+/Users/yassa/Projects/cs1/RandomGenerator/obj/Release/net5.0/RandomGenerator.dll
+/Users/yassa/Projects/cs1/RandomGenerator/obj/Release/net5.0/ref/RandomGenerator.dll
+/Users/yassa/Projects/cs1/RandomGenerator/obj/Release/net5.0/RandomGenerator.pdb
+/Users/yassa/Projects/cs1/RandomGenerator/obj/Release/net5.0/RandomGenerator.genruntimeconfig.cache

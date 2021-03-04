@@ -1,0 +1,14 @@
+/Users/yassa/Projects/cs1/zoo/bin/Release/net5.0/zoo.deps.json
+/Users/yassa/Projects/cs1/zoo/bin/Release/net5.0/zoo.runtimeconfig.json
+/Users/yassa/Projects/cs1/zoo/bin/Release/net5.0/zoo.runtimeconfig.dev.json
+/Users/yassa/Projects/cs1/zoo/bin/Release/net5.0/zoo.dll
+/Users/yassa/Projects/cs1/zoo/bin/Release/net5.0/ref/zoo.dll
+/Users/yassa/Projects/cs1/zoo/bin/Release/net5.0/zoo.pdb
+/Users/yassa/Projects/cs1/zoo/obj/Release/net5.0/zoo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yassa/Projects/cs1/zoo/obj/Release/net5.0/zoo.AssemblyInfoInputs.cache
+/Users/yassa/Projects/cs1/zoo/obj/Release/net5.0/zoo.AssemblyInfo.cs
+/Users/yassa/Projects/cs1/zoo/obj/Release/net5.0/zoo.csproj.CoreCompileInputs.cache
+/Users/yassa/Projects/cs1/zoo/obj/Release/net5.0/zoo.dll
+/Users/yassa/Projects/cs1/zoo/obj/Release/net5.0/ref/zoo.dll
+/Users/yassa/Projects/cs1/zoo/obj/Release/net5.0/zoo.pdb
+/Users/yassa/Projects/cs1/zoo/obj/Release/net5.0/zoo.genruntimeconfig.cache

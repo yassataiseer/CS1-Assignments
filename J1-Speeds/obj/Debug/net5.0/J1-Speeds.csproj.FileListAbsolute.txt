@@ -1,0 +1,15 @@
+/Users/yassa/Projects/cs1/J1-Speeds/bin/Debug/net5.0/J1-Speeds.deps.json
+/Users/yassa/Projects/cs1/J1-Speeds/bin/Debug/net5.0/J1-Speeds.runtimeconfig.json
+/Users/yassa/Projects/cs1/J1-Speeds/bin/Debug/net5.0/J1-Speeds.runtimeconfig.dev.json
+/Users/yassa/Projects/cs1/J1-Speeds/bin/Debug/net5.0/J1-Speeds.dll
+/Users/yassa/Projects/cs1/J1-Speeds/bin/Debug/net5.0/ref/J1-Speeds.dll
+/Users/yassa/Projects/cs1/J1-Speeds/bin/Debug/net5.0/J1-Speeds.pdb
+/Users/yassa/Projects/cs1/J1-Speeds/obj/Debug/net5.0/J1-Speeds.csprojAssemblyReference.cache
+/Users/yassa/Projects/cs1/J1-Speeds/obj/Debug/net5.0/J1-Speeds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yassa/Projects/cs1/J1-Speeds/obj/Debug/net5.0/J1-Speeds.AssemblyInfoInputs.cache
+/Users/yassa/Projects/cs1/J1-Speeds/obj/Debug/net5.0/J1-Speeds.AssemblyInfo.cs
+/Users/yassa/Projects/cs1/J1-Speeds/obj/Debug/net5.0/J1-Speeds.csproj.CoreCompileInputs.cache
+/Users/yassa/Projects/cs1/J1-Speeds/obj/Debug/net5.0/J1-Speeds.dll
+/Users/yassa/Projects/cs1/J1-Speeds/obj/Debug/net5.0/ref/J1-Speeds.dll
+/Users/yassa/Projects/cs1/J1-Speeds/obj/Debug/net5.0/J1-Speeds.pdb
+/Users/yassa/Projects/cs1/J1-Speeds/obj/Debug/net5.0/J1-Speeds.genruntimeconfig.cache

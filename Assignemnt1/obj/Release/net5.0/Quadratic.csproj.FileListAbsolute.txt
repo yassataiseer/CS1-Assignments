@@ -1,0 +1,14 @@
+/Users/yassa/Projects/cs1/Assignemnt1/bin/Release/net5.0/Quadratic.deps.json
+/Users/yassa/Projects/cs1/Assignemnt1/bin/Release/net5.0/Quadratic.runtimeconfig.json
+/Users/yassa/Projects/cs1/Assignemnt1/bin/Release/net5.0/Quadratic.runtimeconfig.dev.json
+/Users/yassa/Projects/cs1/Assignemnt1/bin/Release/net5.0/Quadratic.dll
+/Users/yassa/Projects/cs1/Assignemnt1/bin/Release/net5.0/ref/Quadratic.dll
+/Users/yassa/Projects/cs1/Assignemnt1/bin/Release/net5.0/Quadratic.pdb
+/Users/yassa/Projects/cs1/Assignemnt1/obj/Release/net5.0/Quadratic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yassa/Projects/cs1/Assignemnt1/obj/Release/net5.0/Quadratic.AssemblyInfoInputs.cache
+/Users/yassa/Projects/cs1/Assignemnt1/obj/Release/net5.0/Quadratic.AssemblyInfo.cs
+/Users/yassa/Projects/cs1/Assignemnt1/obj/Release/net5.0/Quadratic.csproj.CoreCompileInputs.cache
+/Users/yassa/Projects/cs1/Assignemnt1/obj/Release/net5.0/Quadratic.dll
+/Users/yassa/Projects/cs1/Assignemnt1/obj/Release/net5.0/ref/Quadratic.dll
+/Users/yassa/Projects/cs1/Assignemnt1/obj/Release/net5.0/Quadratic.pdb
+/Users/yassa/Projects/cs1/Assignemnt1/obj/Release/net5.0/Quadratic.genruntimeconfig.cache

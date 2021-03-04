@@ -1,0 +1,14 @@
+/Users/yassa/Projects/cs1/forloop/bin/Release/net5.0/forloop.deps.json
+/Users/yassa/Projects/cs1/forloop/bin/Release/net5.0/forloop.runtimeconfig.json
+/Users/yassa/Projects/cs1/forloop/bin/Release/net5.0/forloop.runtimeconfig.dev.json
+/Users/yassa/Projects/cs1/forloop/bin/Release/net5.0/forloop.dll
+/Users/yassa/Projects/cs1/forloop/bin/Release/net5.0/ref/forloop.dll
+/Users/yassa/Projects/cs1/forloop/bin/Release/net5.0/forloop.pdb
+/Users/yassa/Projects/cs1/forloop/obj/Release/net5.0/forloop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yassa/Projects/cs1/forloop/obj/Release/net5.0/forloop.AssemblyInfoInputs.cache
+/Users/yassa/Projects/cs1/forloop/obj/Release/net5.0/forloop.AssemblyInfo.cs
+/Users/yassa/Projects/cs1/forloop/obj/Release/net5.0/forloop.csproj.CoreCompileInputs.cache
+/Users/yassa/Projects/cs1/forloop/obj/Release/net5.0/forloop.dll
+/Users/yassa/Projects/cs1/forloop/obj/Release/net5.0/ref/forloop.dll
+/Users/yassa/Projects/cs1/forloop/obj/Release/net5.0/forloop.pdb
+/Users/yassa/Projects/cs1/forloop/obj/Release/net5.0/forloop.genruntimeconfig.cache

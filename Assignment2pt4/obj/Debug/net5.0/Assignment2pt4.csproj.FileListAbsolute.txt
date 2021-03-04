@@ -1,0 +1,14 @@
+/Users/yassa/Projects/cs1/Assignment2pt4/bin/Debug/net5.0/Assignment2pt4.deps.json
+/Users/yassa/Projects/cs1/Assignment2pt4/bin/Debug/net5.0/Assignment2pt4.runtimeconfig.json
+/Users/yassa/Projects/cs1/Assignment2pt4/bin/Debug/net5.0/Assignment2pt4.runtimeconfig.dev.json
+/Users/yassa/Projects/cs1/Assignment2pt4/bin/Debug/net5.0/Assignment2pt4.dll
+/Users/yassa/Projects/cs1/Assignment2pt4/bin/Debug/net5.0/ref/Assignment2pt4.dll
+/Users/yassa/Projects/cs1/Assignment2pt4/bin/Debug/net5.0/Assignment2pt4.pdb
+/Users/yassa/Projects/cs1/Assignment2pt4/obj/Debug/net5.0/Assignment2pt4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yassa/Projects/cs1/Assignment2pt4/obj/Debug/net5.0/Assignment2pt4.AssemblyInfoInputs.cache
+/Users/yassa/Projects/cs1/Assignment2pt4/obj/Debug/net5.0/Assignment2pt4.AssemblyInfo.cs
+/Users/yassa/Projects/cs1/Assignment2pt4/obj/Debug/net5.0/Assignment2pt4.csproj.CoreCompileInputs.cache
+/Users/yassa/Projects/cs1/Assignment2pt4/obj/Debug/net5.0/Assignment2pt4.dll
+/Users/yassa/Projects/cs1/Assignment2pt4/obj/Debug/net5.0/ref/Assignment2pt4.dll
+/Users/yassa/Projects/cs1/Assignment2pt4/obj/Debug/net5.0/Assignment2pt4.pdb
+/Users/yassa/Projects/cs1/Assignment2pt4/obj/Debug/net5.0/Assignment2pt4.genruntimeconfig.cache

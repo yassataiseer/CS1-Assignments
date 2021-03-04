@@ -1,0 +1,14 @@
+/Users/yassa/Projects/cs1/Assignment2pt2/bin/Release/net5.0/Assignment2pt2.deps.json
+/Users/yassa/Projects/cs1/Assignment2pt2/bin/Release/net5.0/Assignment2pt2.runtimeconfig.json
+/Users/yassa/Projects/cs1/Assignment2pt2/bin/Release/net5.0/Assignment2pt2.runtimeconfig.dev.json
+/Users/yassa/Projects/cs1/Assignment2pt2/bin/Release/net5.0/Assignment2pt2.dll
+/Users/yassa/Projects/cs1/Assignment2pt2/bin/Release/net5.0/ref/Assignment2pt2.dll
+/Users/yassa/Projects/cs1/Assignment2pt2/bin/Release/net5.0/Assignment2pt2.pdb
+/Users/yassa/Projects/cs1/Assignment2pt2/obj/Release/net5.0/Assignment2pt2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yassa/Projects/cs1/Assignment2pt2/obj/Release/net5.0/Assignment2pt2.AssemblyInfoInputs.cache
+/Users/yassa/Projects/cs1/Assignment2pt2/obj/Release/net5.0/Assignment2pt2.AssemblyInfo.cs
+/Users/yassa/Projects/cs1/Assignment2pt2/obj/Release/net5.0/Assignment2pt2.csproj.CoreCompileInputs.cache
+/Users/yassa/Projects/cs1/Assignment2pt2/obj/Release/net5.0/Assignment2pt2.dll
+/Users/yassa/Projects/cs1/Assignment2pt2/obj/Release/net5.0/ref/Assignment2pt2.dll
+/Users/yassa/Projects/cs1/Assignment2pt2/obj/Release/net5.0/Assignment2pt2.pdb
+/Users/yassa/Projects/cs1/Assignment2pt2/obj/Release/net5.0/Assignment2pt2.genruntimeconfig.cache

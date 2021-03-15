@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forloop", "forloop\forloop.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomGenerator", "RandomGenerator\RandomGenerator.csproj", "{EB8E3131-027B-47DF-970F-4631BE491205}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeMaker", "ShapeMaker\ShapeMaker.csproj", "{9432FFB8-AB96-4061-9392-F9969C04591F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{EB8E3131-027B-47DF-970F-4631BE491205}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB8E3131-027B-47DF-970F-4631BE491205}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB8E3131-027B-47DF-970F-4631BE491205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9432FFB8-AB96-4061-9392-F9969C04591F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9432FFB8-AB96-4061-9392-F9969C04591F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9432FFB8-AB96-4061-9392-F9969C04591F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9432FFB8-AB96-4061-9392-F9969C04591F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

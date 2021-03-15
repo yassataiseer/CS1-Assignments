@@ -1,0 +1,14 @@
+/Users/yassa/Projects/cs1/ShapeMaker/bin/Release/net5.0/ShapeMaker.deps.json
+/Users/yassa/Projects/cs1/ShapeMaker/bin/Release/net5.0/ShapeMaker.runtimeconfig.json
+/Users/yassa/Projects/cs1/ShapeMaker/bin/Release/net5.0/ShapeMaker.runtimeconfig.dev.json
+/Users/yassa/Projects/cs1/ShapeMaker/bin/Release/net5.0/ShapeMaker.dll
+/Users/yassa/Projects/cs1/ShapeMaker/bin/Release/net5.0/ref/ShapeMaker.dll
+/Users/yassa/Projects/cs1/ShapeMaker/bin/Release/net5.0/ShapeMaker.pdb
+/Users/yassa/Projects/cs1/ShapeMaker/obj/Release/net5.0/ShapeMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yassa/Projects/cs1/ShapeMaker/obj/Release/net5.0/ShapeMaker.AssemblyInfoInputs.cache
+/Users/yassa/Projects/cs1/ShapeMaker/obj/Release/net5.0/ShapeMaker.AssemblyInfo.cs
+/Users/yassa/Projects/cs1/ShapeMaker/obj/Release/net5.0/ShapeMaker.csproj.CoreCompileInputs.cache
+/Users/yassa/Projects/cs1/ShapeMaker/obj/Release/net5.0/ShapeMaker.dll
+/Users/yassa/Projects/cs1/ShapeMaker/obj/Release/net5.0/ref/ShapeMaker.dll
+/Users/yassa/Projects/cs1/ShapeMaker/obj/Release/net5.0/ShapeMaker.pdb
+/Users/yassa/Projects/cs1/ShapeMaker/obj/Release/net5.0/ShapeMaker.genruntimeconfig.cache

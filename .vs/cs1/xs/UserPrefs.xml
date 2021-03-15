@@ -1,27 +1,36 @@
-﻿<Properties StartupConfiguration="{EB8E3131-027B-47DF-970F-4631BE491205}|Default">
+﻿<Properties StartupConfiguration="{9C0E53A2-866C-46D9-8CCA-31A368E24905}|Default">
   <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.forloop PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Assignment3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Quadratic PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.cs1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.UserValidator PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Assignment2pt2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ShapeBuilder PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Assignment2pt1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Assignment2pt3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="ShapeMaker/Program.cs" Line="1" Column="1" />
+      <File FileName="ShapeBuilder/Program.cs" Line="26" Column="1" />
+      <File FileName="cs1/Login_assignment.cs" />
+      <File FileName="UserValidator/Program.cs" Line="29" Column="1" />
+      <File FileName="school/Program.cs" Line="51" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="cs1" expanded="True">
-            <Node name="RandomGenerator" expanded="True" />
-            <Node name="ShapeMaker" expanded="True" selected="True" />
+            <Node name="cs1" expanded="True" />
+            <Node name="school" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="UserValidator" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.school FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Assignment2pt5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.RandomGenerator PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.zoo PreferredExecutionTarget="MonoDevelop.Default" />

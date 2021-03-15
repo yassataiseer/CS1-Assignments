@@ -1,0 +1,11 @@
+/Users/yassa/Projects/cs1/ShapeBuilder/bin/Release/netcoreapp3.1/ShapeBuilder.deps.json
+/Users/yassa/Projects/cs1/ShapeBuilder/bin/Release/netcoreapp3.1/ShapeBuilder.runtimeconfig.json
+/Users/yassa/Projects/cs1/ShapeBuilder/bin/Release/netcoreapp3.1/ShapeBuilder.runtimeconfig.dev.json
+/Users/yassa/Projects/cs1/ShapeBuilder/bin/Release/netcoreapp3.1/ShapeBuilder.dll
+/Users/yassa/Projects/cs1/ShapeBuilder/bin/Release/netcoreapp3.1/ShapeBuilder.pdb
+/Users/yassa/Projects/cs1/ShapeBuilder/obj/Release/netcoreapp3.1/ShapeBuilder.AssemblyInfoInputs.cache
+/Users/yassa/Projects/cs1/ShapeBuilder/obj/Release/netcoreapp3.1/ShapeBuilder.AssemblyInfo.cs
+/Users/yassa/Projects/cs1/ShapeBuilder/obj/Release/netcoreapp3.1/ShapeBuilder.csproj.CoreCompileInputs.cache
+/Users/yassa/Projects/cs1/ShapeBuilder/obj/Release/netcoreapp3.1/ShapeBuilder.dll
+/Users/yassa/Projects/cs1/ShapeBuilder/obj/Release/netcoreapp3.1/ShapeBuilder.pdb
+/Users/yassa/Projects/cs1/ShapeBuilder/obj/Release/netcoreapp3.1/ShapeBuilder.genruntimeconfig.cache

@@ -6,13 +6,16 @@ namespace ShapeBuilder
     {
         static void Main(string[] args)
         {
-            int Length = Convert.ToInt16(Console.ReadLine());
+            Console.Write("Enter Width: ");
             int Width = Convert.ToInt16(Console.ReadLine());
-            for (int r = 0; r < Length; r++)
+            Console.Write("Enter Length: ");
+            int Length = Convert.ToInt16(Console.ReadLine());
+            String SquareDesign = "";
+            for (int r = 0; r < Width; r++)
             {
-                for (int j = 0; j < Width; j++)
+                for (int j = 0; j < Length; j++)
                 {
-                    SquareDesign += "*";
+                    SquareDesign += "$";
                 }
                 Console.WriteLine(SquareDesign);
                 SquareDesign = "";

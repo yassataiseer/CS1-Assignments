@@ -1,0 +1,14 @@
+/Users/yassa/Projects/cs1/UserValidator/bin/Release/net5.0/UserValidator.deps.json
+/Users/yassa/Projects/cs1/UserValidator/bin/Release/net5.0/UserValidator.runtimeconfig.json
+/Users/yassa/Projects/cs1/UserValidator/bin/Release/net5.0/UserValidator.runtimeconfig.dev.json
+/Users/yassa/Projects/cs1/UserValidator/bin/Release/net5.0/UserValidator.dll
+/Users/yassa/Projects/cs1/UserValidator/bin/Release/net5.0/ref/UserValidator.dll
+/Users/yassa/Projects/cs1/UserValidator/bin/Release/net5.0/UserValidator.pdb
+/Users/yassa/Projects/cs1/UserValidator/obj/Release/net5.0/UserValidator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yassa/Projects/cs1/UserValidator/obj/Release/net5.0/UserValidator.AssemblyInfoInputs.cache
+/Users/yassa/Projects/cs1/UserValidator/obj/Release/net5.0/UserValidator.AssemblyInfo.cs
+/Users/yassa/Projects/cs1/UserValidator/obj/Release/net5.0/UserValidator.csproj.CoreCompileInputs.cache
+/Users/yassa/Projects/cs1/UserValidator/obj/Release/net5.0/UserValidator.dll
+/Users/yassa/Projects/cs1/UserValidator/obj/Release/net5.0/ref/UserValidator.dll
+/Users/yassa/Projects/cs1/UserValidator/obj/Release/net5.0/UserValidator.pdb
+/Users/yassa/Projects/cs1/UserValidator/obj/Release/net5.0/UserValidator.genruntimeconfig.cache

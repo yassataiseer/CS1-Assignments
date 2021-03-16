@@ -12,3 +12,4 @@
 /Users/yassa/Projects/cs1/Assignemnt1/obj/Release/net5.0/ref/Quadratic.dll
 /Users/yassa/Projects/cs1/Assignemnt1/obj/Release/net5.0/Quadratic.pdb
 /Users/yassa/Projects/cs1/Assignemnt1/obj/Release/net5.0/Quadratic.genruntimeconfig.cache
+/Users/yassa/Projects/cs1/Assignemnt1/obj/Release/net5.0/Quadratic.csprojAssemblyReference.cache

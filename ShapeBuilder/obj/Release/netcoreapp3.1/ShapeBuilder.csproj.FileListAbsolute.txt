@@ -9,3 +9,4 @@
 /Users/yassa/Projects/cs1/ShapeBuilder/obj/Release/netcoreapp3.1/ShapeBuilder.dll
 /Users/yassa/Projects/cs1/ShapeBuilder/obj/Release/netcoreapp3.1/ShapeBuilder.pdb
 /Users/yassa/Projects/cs1/ShapeBuilder/obj/Release/netcoreapp3.1/ShapeBuilder.genruntimeconfig.cache
+/Users/yassa/Projects/cs1/ShapeBuilder/obj/Release/netcoreapp3.1/ShapeBuilder.csprojAssemblyReference.cache

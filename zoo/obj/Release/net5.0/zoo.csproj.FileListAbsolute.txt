@@ -12,3 +12,4 @@
 /Users/yassa/Projects/cs1/zoo/obj/Release/net5.0/ref/zoo.dll
 /Users/yassa/Projects/cs1/zoo/obj/Release/net5.0/zoo.pdb
 /Users/yassa/Projects/cs1/zoo/obj/Release/net5.0/zoo.genruntimeconfig.cache
+/Users/yassa/Projects/cs1/zoo/obj/Release/net5.0/zoo.csprojAssemblyReference.cache

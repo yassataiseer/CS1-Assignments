@@ -51,6 +51,11 @@ namespace school
             else if (input == 2)
             {
                 string[] userdata = SignUp();//redirects to signup
+                bool userfind = FindUser(userdata[0]);
+                if (userfind == true)
+                {
+                    return "\nUnfortunately this username is already taken";
+                }
                 bool userwriter = UserWriter(userdata[0], userdata[1]);
                 return "\nWelcome to MySecure, " + userdata[0] + "! You have succesfully signed up.\n-----------------------------------------------------------------------------------------------------";
             }//If clicked anything else:
@@ -104,6 +109,9 @@ namespace school
             //writes password to password.txt
             return true;//if everything works return true
         }
+
+
+
         static bool FindUser(string username)
         {
             const Int32 BufferSize = 128;

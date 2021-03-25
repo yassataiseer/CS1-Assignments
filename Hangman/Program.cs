@@ -15,7 +15,7 @@ namespace Hangman
             }
             else
             {
-                Console.WriteLine("HAHA you lost loser try again later");
+                Console.WriteLine("You lost... try again later....");
             }
 
         }
@@ -26,9 +26,9 @@ namespace Hangman
             string[] companies = { "microsoft", "apple", "amazon", "google" };
             string[] categories = { "country", "food", "companies" };
             string[][] values = { country, food, companies };
-            string head = "";
-            string body = "";
-            string legs = "";
+            //string head = " O ";
+            //string body = "/ \";
+            //string legs = "O->=<";
             Random rnd = new Random();
             int category_index = rnd.Next(0, 4);
             int word_index = rnd.Next(5);
@@ -44,9 +44,12 @@ namespace Hangman
             {
                 masked_word.Add("*");
             }
+            string[] body = { "O", "-", ">", "=", "<" };
+            string build = "";
             var chars_attempted = "";
             while (counter <= 5)
             {
+
                 string combined = string.Join("", masked_word);
                 if (word == combined)
                 {
@@ -56,8 +59,9 @@ namespace Hangman
                 {
                     return false;
                 }
-                Console.WriteLine("You Currently Have {0} guesses left \n", 5 - counter);
+                Console.WriteLine("You Currently Have {0} lives left \n", 5 - counter);
                 Console.WriteLine("Your word looks like this so far: {0} \n", combined);
+                Console.WriteLine("This is how the man currently looks like: "+build);
                 Console.Write("Input one character: ");
                 char input = Convert.ToChar(Console.ReadLine());
                 if (chars_attempted.Contains(input))
@@ -81,7 +85,9 @@ namespace Hangman
                 else
                 {
                     Console.WriteLine("That letter does not exist sorry...");
+                    build += body[counter];
                     counter++;
+
                     chars_attempted+= Convert.ToString(input);
                 }
                 chars_attempted += Convert.ToString(input);

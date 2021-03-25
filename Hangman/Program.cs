@@ -34,7 +34,7 @@ namespace Hangman
             int word_index = rnd.Next(5);
             Console.WriteLine("Welcome To The Hangman Game \n");
             Console.WriteLine("The category is {0} \n", categories[category_index]);
-            Console.WriteLine("The word is {0} \n", values[category_index][word_index]);
+            //Console.WriteLine("The word is {0} \n", values[category_index][word_index]);
             string word = values[category_index][word_index];
             Console.WriteLine("You will 5 lives before the hangman is complete \n");
             Console.WriteLine("Once completed you will lose the game \n");
@@ -44,10 +44,10 @@ namespace Hangman
             {
                 masked_word.Add("*");
             }
-
+            var chars_attempted = "";
             while (counter <= 5)
             {
-                var combined = string.Join("", masked_word);
+                string combined = string.Join("", masked_word);
                 if (word == combined)
                 {
                     return true;
@@ -59,24 +59,32 @@ namespace Hangman
                 Console.WriteLine("You Currently Have {0} guesses left \n", 5 - counter);
                 Console.WriteLine("Your word looks like this so far: {0} \n", combined);
                 Console.Write("Input one character: ");
-                char x = Convert.ToChar(Console.ReadLine());
-                if (word.Contains(x))
+                char input = Convert.ToChar(Console.ReadLine());
+                if (chars_attempted.Contains(input))
+                {
+                    Console.WriteLine("Oh no you already wrote this letter before... please pick another \n");
+                }
+                else if (word.Contains(input))
                 {
                     Console.WriteLine("Congrats that letter is in the word \n");
-                    int data = word.IndexOf(x);
-                    List<int> index = Occur(x,word);
+                    int data = word.IndexOf(input);
+                    List<int> index = Occur(input, word);
                     //masked_word[data] = Convert.ToString(x);
                     //string stuff = string.Join(", ", index);
                     foreach (int location in index) 
                     {
-                        masked_word[location] = Convert.ToString(x);
+                        masked_word[location] = Convert.ToString(input);
+                        chars_attempted += Convert.ToString(input);
                     }
                 }
+
                 else
                 {
                     Console.WriteLine("That letter does not exist sorry...");
                     counter++;
+                    chars_attempted+= Convert.ToString(input);
                 }
+                chars_attempted += Convert.ToString(input);
             }
             return false;
         }

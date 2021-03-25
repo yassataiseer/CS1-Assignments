@@ -31,7 +31,7 @@ namespace school
                     bool passwordcheck = FindPassword(userdata[1]);/// verifies psswd
                     if (usercheck == true && passwordcheck == true)
                     {
-                        return "Welcome! You have succesfully logged in!";
+                        return "Welcome! You have successfully logged in!";
                     }
                     else//if not correct
                     {
@@ -68,7 +68,7 @@ namespace school
             Console.WriteLine("Please enter your valid username");
             string username = Console.ReadLine();
 
-            Console.WriteLine("Please enter your valid pssword");
+            Console.WriteLine("Please enter your valid password");
             string password = Console.ReadLine();
 
             string[] userdata = { username, password };

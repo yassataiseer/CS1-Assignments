@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserValidator", "UserValida
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "school", "school\school.csproj", "{4A97A466-99B9-4F44-95E9-D48326EE6FBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangman", "Hangman\Hangman.csproj", "{EC036EEA-BAB9-46EA-9569-8150A3E6EE10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{4A97A466-99B9-4F44-95E9-D48326EE6FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A97A466-99B9-4F44-95E9-D48326EE6FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A97A466-99B9-4F44-95E9-D48326EE6FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC036EEA-BAB9-46EA-9569-8150A3E6EE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC036EEA-BAB9-46EA-9569-8150A3E6EE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC036EEA-BAB9-46EA-9569-8150A3E6EE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC036EEA-BAB9-46EA-9569-8150A3E6EE10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

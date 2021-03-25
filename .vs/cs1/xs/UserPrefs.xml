@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{FFFD16FD-806E-490D-9CF7-83EFD0E2DDC8}|Default">
+﻿<Properties StartupConfiguration="{EC036EEA-BAB9-46EA-9569-8150A3E6EE10}|Default">
   <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.forloop PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Assignment3 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -11,17 +11,15 @@
   <MonoDevelop.Ide.ItemProperties.Assignment2pt3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="school/Program.cs" Line="18" Column="12" />
+      <File FileName="Hangman/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="cs1" expanded="True">
-            <Node name="cs1" expanded="True" />
-            <Node name="school" expanded="True">
+            <Node name="Hangman" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="UserValidator" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -33,6 +31,7 @@
   <MonoDevelop.Ide.ItemProperties.zoo PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Assignment1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Hangman PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Shapes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Assignment2pt4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
